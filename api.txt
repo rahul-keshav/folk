@@ -1,0 +1,1 @@
+http://103.16.101.52:8080/bulksms/bulksms?username=ssd-akshya&password=balram&type=0&dlr=1&destination=%2B7357010770&source=FOLKPL&message=harekrishna
